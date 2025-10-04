@@ -1,16 +1,16 @@
-## Hi there 👋
+## Henrique Mosson Zaianz
 
-<!--
-**Henriqmz/Henriqmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFSP de Jacareí, e busco aprender bastante com o curso.
 
-Here are some ideas to get you started:
+# Tecnologias aprendidas
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" widgt="40" height="40" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Estatísticas
+<div>
+<a href="https://github.com/Henriqmz">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqmz&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Henriqmz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+# Links
+https://www.linkedin.com/in/henrique-zaianz-881b4337b
