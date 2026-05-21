@@ -22,16 +22,14 @@ Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFSP de Jaca
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cisco/cisco-original.svg" width="40" height="40" alt="Cisco" title="Cisco Packet Tracer"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cisco/cisco-plain.svg" width="40" height="40" alt="Cisco" title="Cisco Packet Tracer"/>
 </p>
 
 # Estatísticas
 
 <p align="center">
-  <a href="https://github.com/Henriqmz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqmz&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henriqmz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  </a>
+  <img height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqmz&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="180m" src="https://github-readme-stats.vercel.app/api?username=Henriqmz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </p>
 
 # Links
